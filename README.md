@@ -1,3 +1,6 @@
 "# MTSInterpretability" 
 
 To run the experiments for the paper **Interpreting decision-making process for multivariate time series classification** use the the .ipynb file at **experiments/notebooks/mts_explain.ipynb**
+
+First step to run the experiments is to install **environment.yml** file **conda env create -f environment.yml**
+
